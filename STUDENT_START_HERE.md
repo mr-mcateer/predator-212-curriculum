@@ -160,14 +160,15 @@ This repository contains **everything** you need:
   - Timestamps for specific procedures
   - **Watch videos BEFORE trying each phase**
 
-### **5. VISUAL GUIDES** (New!)
-- **visuals/01-Engine-Layout.md**
-- **visuals/02-Measurement-Guide.md**
-- **visuals/03-Torque-Patterns.md**
-- **visuals/04-Valve-Lash-Guide.md**
-- **visuals/05-Timing-Mark-Alignment.md**
-  - Diagrams and illustrations
-  - **Use these while working**
+### **5. VISUAL GUIDES & VIDEOS**
+- **Mr. Hall's Videos** (Primary visual instruction)
+  - Watch while you work on each phase
+  - Timestamps in docs/03-Video-Reference-Guide.md
+  - See actual hands-on demonstrations
+
+- **visuals/04-Valve-Lash-Guide.md** (Critical procedure guide)
+- **visuals/05-Timing-Mark-Alignment.md** (Timing reference)
+  - **Use these alongside the videos**
 
 ### **6. YOUR DOCUMENTATION**
 - **worksheets/Student-Worksheet.md**

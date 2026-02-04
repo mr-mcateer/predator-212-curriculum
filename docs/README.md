@@ -9,20 +9,19 @@ This folder contains all the detailed reference materials for the Predator 212 E
 - **02-Teaching-Guide.md** - Complete procedures with detailed explanations
 - **03-Video-Reference-Guide.md** - Video links, timestamps, and learning objectives
 
-### 📊 Reference Materials (NEW)
-- **04-Study-Questions.md** - Assessment questions (link coming)
-- **05-Torque-Specifications.md** - Complete torque spec reference (link coming)
-- **Assessment-Rubric.md** - How your work will be graded (link coming)
-- **Instructor-Guide.md** - For instructors setting up curriculum (link coming)
+### 📊 Reference Materials
+- **05-Torque-Specifications.md** - Complete torque spec reference (print for workstation!)
+- **Assessment-Rubric.md** - How your work will be graded
+- **FAQ.md** - Troubleshooting and common questions
 
 ### 📖 By Use Case
 
 **If you need to:**
 - ... find a specific procedure → **02-Teaching-Guide.md**
-- ... print something for the workbench → **01-Quick-Reference-Checklists.md**
+- ... print something for the workbench → **01-Quick-Reference-Checklists.md** or **05-Torque-Specifications.md**
 - ... understand a video → **03-Video-Reference-Guide.md**
-- ... study for knowledge check → **04-Study-Questions.md**
 - ... look up a torque value → **05-Torque-Specifications.md**
+- ... troubleshoot a problem → **FAQ.md**
 
 ---
 
@@ -76,52 +75,51 @@ This folder contains all the detailed reference materials for the Predator 212 E
 
 ---
 
-### **04-Study-Questions.md** (Link Coming)
-**Purpose:** Test your knowledge
-**Contains:**
-- Pre-project assessment
-- Phase-by-phase knowledge checks
-- Final comprehensive test
-- Self-check answers
-
-**👉 Use to verify your understanding**
-
----
-
-### **05-Torque-Specifications.md** (Link Coming)
+### **05-Torque-Specifications.md**
 **Purpose:** Authoritative torque reference
+**Size:** ~300 lines
+**Use:** Print and post at workstation
+**When:** Weeks 4-5 (reassembly phases)
 **Contains:**
 - All torque values in one place
-- Which tools to use
-- What happens if wrong
-- Unit conversions
+- When to apply each specification
+- Critical torque mistakes to avoid
+- How to use a torque wrench
+- Student documentation requirements
 
 **👉 Print and post this at workstation**
 
 ---
 
-### **Assessment-Rubric.md** (Link Coming)
+### **Assessment-Rubric.md**
 **Purpose:** Understand how you're graded
+**Size:** ~250 lines
+**Use:** Reference for grading criteria
+**When:** Before starting, to understand expectations
 **Contains:**
-- Grade breakdown
-- Expectations per component
-- Points for each area
-- Grading criteria
+- Grade breakdown (5 components)
+- A-F scale with specific criteria for each
+- Safety, documentation, measurements, startup, reflection
+- Critical checkpoints that must pass
+- Extra credit opportunities
 
 **👉 Know what success looks like**
 
 ---
 
-### **Instructor-Guide.md** (Link Coming)
-**Purpose:** Setup and implementation guide
+### **FAQ.md**
+**Purpose:** Troubleshooting and common questions
+**Size:** ~400 lines
+**Use:** Reference when problems arise
+**When:** Weeks 4-6 (particularly startup phase)
 **Contains:**
-- Classroom setup instructions
-- Material preparation checklist
-- Student introduction script
-- Troubleshooting tips
-- Extension activities
+- Startup problem diagnosis
+- Disassembly/reassembly issues
+- Measurement and documentation questions
+- Assessment and grading questions
+- When to ask for help
 
-**👉 For instructors implementing this curriculum**
+**👉 Check this when stuck**
 
 ---
 
@@ -145,17 +143,17 @@ This folder contains all the detailed reference materials for the Predator 212 E
 3. Follow **01-Quick-Reference-Checklists.md** step-by-step
 
 **Study & Assessment:**
-1. Use **04-Study-Questions.md** to prepare
-2. Know grading criteria from **Assessment-Rubric.md**
-3. Review **05-Torque-Specifications.md** for quick reference
+1. Know grading criteria from **Assessment-Rubric.md**
+2. Review **05-Torque-Specifications.md** for quick reference
+3. Check **FAQ.md** for troubleshooting
 
 ### **For Instructors**
 
-1. Read **Instructor-Guide.md** first
-2. Prepare materials using setup checklist
-3. Print **01-Quick-Reference-Checklists.md** for students
-4. Share **Assessment-Rubric.md** with students
-5. Have **05-Torque-Specifications.md** posted
+1. Review **Assessment-Rubric.md** to understand grading
+2. Print **01-Quick-Reference-Checklists.md** for students
+3. Have **05-Torque-Specifications.md** posted at workstations
+4. Familiarize with **FAQ.md** for common troubleshooting
+5. Share **03-Video-Reference-Guide.md** with students for video access
 
 ---
 
@@ -170,8 +168,8 @@ This folder contains all the detailed reference materials for the Predator 212 E
 - 03-Video-Reference-Guide.md (links to videos)
 
 ### **Share with Class**
-- 04-Study-Questions.md (for assessments)
 - Assessment-Rubric.md (grading criteria)
+- FAQ.md (troubleshooting reference)
 
 ---
 
@@ -208,10 +206,9 @@ This is an educational resource. Improvements welcome!
 | Steps to follow | 01-Quick-Reference-Checklists.md |
 | Why we do it | 02-Teaching-Guide.md |
 | Video timing | 03-Video-Reference-Guide.md |
-| Test yourself | 04-Study-Questions.md |
 | Torque values | 05-Torque-Specifications.md |
 | Grading info | Assessment-Rubric.md |
-| Setup guide | Instructor-Guide.md |
+| Troubleshooting | FAQ.md |
 
 ---
 
