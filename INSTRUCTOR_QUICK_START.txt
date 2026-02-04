@@ -1,0 +1,279 @@
+================================================================================
+PREDATOR 212cc ENGINE CURRICULUM - INSTRUCTOR QUICK START
+================================================================================
+
+🚀 START HERE - PRINT THIS PAGE AND FOLLOW IMMEDIATELY
+
+================================================================================
+BEFORE WEEK 1 STARTS (Do This Friday)
+================================================================================
+
+STEP 1: READ (15 minutes)
+→ Open: docs/INSTRUCTOR_IMPLEMENTATION_GUIDE.md
+→ Read section: "QUICK START (5 minutes)"
+
+STEP 2: PRINT (20 minutes) - Print in this order:
+□ 15 copies: docs/01-Quick-Reference-Checklists.md (laminate if possible)
+□ 10 copies: docs/05-Torque-Specifications.md (for workstations)
+□ 10 copies: worksheets/Student-Worksheet.md
+□ 5 copies: docs/Assessment-Rubric.md
+□ 3 copies: docs/INSTRUCTOR_IMPLEMENTATION_GUIDE.md (for you, backup)
+□ 1 per student: STUDENT_START_HERE.md
+
+STEP 3: VIDEO ACCESS (5 minutes)
+→ Bookmark this link: https://www.youtube.com/playlist?list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-
+→ Test access on student computers
+→ Share link with students via LMS/email/board
+
+STEP 4: MATERIALS CHECK (15 minutes)
+→ See: docs/INSTRUCTOR_IMPLEMENTATION_GUIDE.md → "Materials Checklist"
+→ Verify you have:
+  • Metric socket sets
+  • Torque wrenches
+  • Feeler gauges
+  • Flywheel holders
+  • Safety equipment
+  • Oil disposal containers
+
+================================================================================
+WEEK 1 SCHEDULE (One Page - Print This)
+================================================================================
+
+MONDAY (45-50 min):
+→ Welcome + Pre-assessment (5 questions about engines)
+→ Safety agreement (sign)
+→ HW: Read STUDENT_START_HERE.md
+
+TUESDAY (90 min BLOCK):
+→ Watch: Foundation video (20 min) - https://www.youtube.com/watch?v=ryUB0W72VJ0
+  [Playlist link: https://www.youtube.com/playlist?list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-]
+→ Discuss 4-stroke cycle (20 min)
+→ Review Teaching Guide phases 1-3 (40 min)
+→ HW: Study phase 1 procedures
+
+WEDNESDAY (45-50 min):
+→ Safety checklist line-by-line (20 min)
+→ Watch Part 1 Teardown (25 min) - https://www.youtube.com/watch?v=ha6K8Bn9ELo
+→ HW: Watch Part 2 preview, start tool inventory
+
+THURSDAY (90 min BLOCK):
+→ Watch Part 2 Teardown (25 min) - https://www.youtube.com/watch?v=NrXomEJPzqM
+→ Workspace setup (30 min)
+→ Tool competency check (20 min)
+→ Distribute worksheets, explain documentation (15 min)
+
+FRIDAY (45-50 min):
+→ Knowledge check (20 min) - 10 questions
+→ Workspace walkthrough (15 min)
+→ Clearance sign-off for students who pass
+→ Students who don't pass: tutoring + retest
+
+================================================================================
+WEEK 2-3 SCHEDULE (The Work)
+================================================================================
+
+All daily activities in: docs/INSTRUCTOR_IMPLEMENTATION_GUIDE.md
+→ Section: "3-WEEK LESSON PLAN"
+
+Key dates to remember:
+□ MONDAY WEEK 2: Start external disassembly
+□ TUESDAY WEEK 2: Flywheel removal
+□ WEDNESDAY WEEK 2: Piston removal
+□ THURSDAY WEEK 2: Head removal (big day!)
+□ FRIDAY WEEK 2: Measurement day
+□ TUESDAY WEEK 3: Head reassembly start
+□ WEDNESDAY WEEK 3: ⭐ VALVE LASH DAY (CRITICAL)
+□ FRIDAY WEEK 3: External assembly complete
+
+================================================================================
+WEEK 6 SCHEDULE (Startup)
+================================================================================
+
+MONDAY: Final checks before startup
+TUESDAY: 🚀 STARTUP DAY (Engine should run)
+WEDNESDAY: Troubleshooting + reflection setup
+THURSDAY: Final assessment + peer review
+FRIDAY: Grades + wrap-up discussion
+
+================================================================================
+MOST CRITICAL CHECKPOINT
+================================================================================
+
+⭐ WEEK 3 WEDNESDAY - VALVE LASH ADJUSTMENT
+
+Video: https://www.youtube.com/watch?v=ixVMH0u7C34 (watch TWICE)
+
+SPECS:
+  Intake:  0.003" - 0.005"
+  Exhaust: 0.004" - 0.006"
+
+PROCEDURE:
+1. Position at Top Dead Center (TDC)
+2. Use feeler gauge
+3. Adjust rocker screw until snug
+4. Record measurement
+5. Rotate 180° and check other valve
+6. Record both measurements
+
+ACTION: DO NOT PROCEED to reassembly without:
+  • Instructor verification
+  • Both valve lash measurements correct
+  • Student understanding (not just lucky)
+  • Worksheet signed off
+
+⚠️ This is why 80% of engines won't start if wrong. Get it right.
+
+================================================================================
+GRADING QUICK REFERENCE
+================================================================================
+
+Formula (Total = 100 points):
+  Safety Adherence (30%):      ___ / 30
+  Documentation (25%):          ___ / 25
+  Measurements (20%):           ___ / 20
+  Engine Startup (15%):         ___ / 15
+  Reflection (10%):             ___ / 10
+  TOTAL:                        ___ / 100
+
+Grade Scale:
+  A: 90-100
+  B: 80-89
+  C: 70-79
+  D: 60-69
+  F: <60
+
+Full rubric: docs/Assessment-Rubric.md
+
+================================================================================
+ALL VIDEO LINKS (Bookmarks)
+================================================================================
+
+Foundation (Week 1 Tuesday):
+https://www.youtube.com/watch?v=ryUB0W72VJ0&list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-
+
+Part 1 - Tear Down Part 1 (Week 1 Wednesday):
+https://www.youtube.com/watch?v=ha6K8Bn9ELo
+
+Part 2 - Tear Down Part 2 (Week 1 Thursday):
+https://www.youtube.com/watch?v=NrXomEJPzqM
+
+Part 3 - Installing Piston (Week 2 Wednesday):
+https://www.youtube.com/watch?v=j2UvZuUYUEU
+
+Part 4 - Internal Reassembly (Week 3 Tuesday):
+https://www.youtube.com/watch?v=4sKIi20SJNI
+
+Part 5 - Head & Valve Detail (Week 2 Thursday):
+https://www.youtube.com/watch?v=Td-8jDXZ6KA
+
+Part 6 - Head Reassembly (Week 3 Tuesday):
+https://www.youtube.com/watch?v=RFEy7g0iDEg
+
+Part 7 - Valve Lashing ⭐ (Week 3 Wednesday - WATCH TWICE):
+https://www.youtube.com/watch?v=ixVMH0u7C34
+
+Part 8 - Exterior Reassembly (Week 3 Friday):
+https://www.youtube.com/watch?v=y6wgEWFvBWQ
+
+Part 9 - Flywheel Installation (Week 3 Friday):
+https://www.youtube.com/watch?v=t-kKTW-2ZqE
+
+Full Playlist:
+https://www.youtube.com/playlist?list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-
+
+================================================================================
+TROUBLESHOOTING QUICK FIXES
+================================================================================
+
+Engine won't start?
+→ Check: Spark → Fuel → VALVE LASH (most common)
+→ See: docs/FAQ.md
+
+Stuck bolt?
+→ Apply penetrating oil, wait 15-30 min
+→ Steady pressure, don't jerk
+
+Stripped threads?
+→ Can't fix easily - document in notebook
+→ Discuss with student
+
+Student confused?
+→ See: docs/FAQ.md
+→ Show relevant video section
+
+================================================================================
+DOCUMENTATION YOU NEED TO COLLECT
+================================================================================
+
+Each student should have in their worksheet:
+
+□ WEEK 1: Safety agreement, pre-assessment, tool inventory
+□ WEEK 2: Component removal sequence, measurements, photos
+□ WEEK 3: Valve lash ALL attempts, torque values used
+□ WEEK 6: Startup date/time, engine behavior, reflection
+
+Check worksheets EVERY FRIDAY. Don't let documentation fall behind.
+
+================================================================================
+KEY TEACHER RESPONSIBILITIES
+================================================================================
+
+DAILY:
+□ Safety observation (is anyone cutting corners?)
+□ Technique verification (are they doing it right?)
+□ Documentation check (are they writing it down?)
+
+WEEKLY:
+□ Friday: Collect and review worksheets
+□ Friday: Quick spot checks of measurements
+□ Friday: Verify all bolts were torqued correctly
+
+CRITICAL DATES:
+□ Week 1 Friday: Knowledge check must pass before disassembly
+□ Week 2 Friday: Measurements must be recorded
+□ Week 3 Wednesday: Valve lash MUST be verified by you
+□ Week 3 Friday: All torque values must be documented
+□ Week 6 Tuesday: Startup attempt (have extinguisher nearby!)
+□ Week 6 Friday: Final grades
+
+================================================================================
+IF SOMETHING GOES WRONG
+================================================================================
+
+Student won't follow safety procedure?
+→ STOP work immediately
+→ Private conversation
+→ Can't be a shortcut person - safety is non-negotiable
+→ 30% of grade is safety adherence
+
+Engine won't start?
+→ Likely: Valve lash wrong (80% of cases)
+→ Check spark, fuel, compression in order
+→ See: docs/FAQ.md for diagnosis
+→ Document troubleshooting attempts (shows learning)
+
+Student behind schedule?
+→ Can work at own pace if safety maintained
+→ Can catch up with extra hours if available
+→ Assessment based on quality, not speed
+
+================================================================================
+YOU'VE GOT THIS
+================================================================================
+
+This is a complete, turn-key curriculum. Everything you need is:
+
+1. In this folder (all files offline-ready)
+2. In docs/INSTRUCTOR_IMPLEMENTATION_GUIDE.md (detailed daily activities)
+3. On GitHub (backup + shareable link for students)
+
+Monday morning: Print the guide, print student materials, you're ready.
+
+Questions? Everything is documented in the guide.
+
+Good luck. Your students are about to do real technical work.
+
+================================================================================
+Last Updated: February 2026
+Print this page and keep it handy all 6 weeks
+================================================================================
