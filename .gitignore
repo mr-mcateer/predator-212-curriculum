@@ -1,0 +1,42 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Temp files
+*.tmp
+*.bak
+.temp/
+
+# Student-specific (if storing locally)
+student-work/
+.student-data/
+
+# Do NOT ignore these - they're part of curriculum
+!.gitkeep
+!visuals/
+!docs/
+!worksheets/
+!phases/
+
