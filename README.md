@@ -1,394 +1,357 @@
 # 🔧 Predator 212cc Engine Disassembly & Reassembly
+## Crescent Valley High School - 1st Hour Block Class
 
 **Complete High School Technical Curriculum**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Ready for Classroom](https://img.shields.io/badge/Status-Ready%20for%20Classroom-brightgreen)]()
-[![Last Updated: 2026](https://img.shields.io/badge/Updated-February%202026-blue)]()
-
-> Complete instructional package for hands-on engine mechanics education, based on Mr. Daniel Hall's proven video series from Panola College
+[![Schedule: 3 Week Block](https://img.shields.io/badge/Schedule-3%20Week%20Block-brightgreen)]()
+[![Videos: 9 Complete](https://img.shields.io/badge/Videos-9%20Complete-blue)]()
 
 ---
 
-## 📚 Quick Navigation
+## 📅 CLASS SCHEDULE AT CRESCENT VALLEY HS (1ST HOUR)
 
-### **For Students Starting Now** 👈 START HERE
-- **First Time?** → [Student Workflow Guide](STUDENT_START_HERE.md)
-- **Just Completed Phase 3?** → [Check your progress](#-student-workflow--progress-tracking)
-- **Looking for checklists?** → [Quick Reference Checklists](docs/01-Quick-Reference-Checklists.md)
-
-### **For Instructors**
-- **Full Curriculum Overview** → [docs/README.md](docs/README.md)
-- **Implementation Guide** → [docs/Instructor-Guide.md](docs/Instructor-Guide.md)
-- **Assessment Rubric** → [docs/Assessment-Rubric.md](docs/Assessment-Rubric.md)
-
-### **Materials by Purpose**
-| Purpose | Find Here |
-|---------|-----------|
-| 📋 Step-by-step procedures | [docs/02-Teaching-Guide.md](docs/02-Teaching-Guide.md) |
-| ✓ Printable checklists | [docs/01-Quick-Reference-Checklists.md](docs/01-Quick-Reference-Checklists.md) |
-| 🎬 Video timing & content | [docs/03-Video-Reference-Guide.md](docs/03-Video-Reference-Guide.md) |
-| 📝 Documentation worksheet | [worksheets/Student-Worksheet.md](worksheets/Student-Worksheet.md) |
-| 📊 Visual diagrams | [visuals/README.md](visuals/README.md) |
+**Monday:** Short class (~45-50 min) - planning & video watching
+**Tuesday & Thursday:** Long block days (~90 min each) - hands-on work
+**Total:** 3 weeks of class time (~8 hours Monday + 18+ hours blocks = ~26 hours total)
 
 ---
 
-## 🎯 Student Workflow & Progress Tracking
+## 🎯 WHAT YOU'RE DOING - FIRST PRINCIPLES
 
-### **Week 1: Preparation & Learning**
+You are **disassembling, inspecting, and reassembling an actual engine**. This is real work that real mechanics do.
 
-```
-Day 1: READ & UNDERSTAND
-├─ Read this README (5 min)
-├─ Take Pre-Assessment [📝 in worksheets/]
-├─ Watch Orientation Video [YouTube link coming]
-└─ Review Safety Checklist [docs/01-Quick-Reference-Checklists.md]
+**Your deliverable:** A functioning Predator 212cc engine that starts and runs.
 
-Day 2-3: STUDY PHASE 1
-├─ Read Teaching Guide Phase 1 [docs/02-Teaching-Guide.md]
-├─ Watch Mr. Hall Part 1 & 2 [see docs/03-Video-Reference-Guide.md for links]
-├─ Review Disassembly Sequence [docs/01-Quick-Reference-Checklists.md]
-└─ Prepare workstation
-
-Day 4-5: PRACTICE KNOWLEDGE
-├─ Study questions [docs/04-Study-Questions.md]
-├─ Review timing marks and layout [visuals/01-Engine-Layout.md]
-└─ Brief quiz (instructor led)
-```
-
-**Status:** ☐ Week 1 Complete → [Move to Week 2](#week-2-disassembly--inspection)
+**Your documentation:** A complete notebook/worksheet showing every step, measurement, and decision.
 
 ---
 
-### **Week 2-3: Disassembly & Inspection**
+## 📋 WHAT STUDENTS MUST DOCUMENT (Zero-Based Checklist)
 
-```
-Day 1-2: DISASSEMBLY PHASE 1
-├─ Reference: docs/01-Quick-Reference-Checklists.md (Disassembly section)
-├─ Document: Complete worksheets/Student-Worksheet.md (Disassembly Phase)
-├─ Checkoff: All pre-safety steps completed
-└─ Photos: Document component positions
+### **DOCUMENTATION REQUIRED - Write This Down**
 
-Day 3-4: DISASSEMBLY PHASE 2
-├─ Remove flywheel and crankcase
-├─ Reference: docs/02-Teaching-Guide.md (Phase 2)
-└─ Document: Component condition in worksheet
+Your notebook must contain (physically write or print and paste):
 
-Day 5: INSPECTION & MEASUREMENT
-├─ Measure ring gaps [visuals/02-Measurement-Guide.md]
-├─ Check cylinder bore [worksheets/Student-Worksheet.md - Measurements]
-├─ Record all data carefully
-└─ Get instructor verification
-```
+#### **Week 1: Preparation**
+- [ ] Safety agreement signed
+- [ ] List of 9 videos with titles and timestamps
+- [ ] Pre-assessment answers (5 questions about engine basics)
+- [ ] Your engine's starting condition (notes on what you observe)
+- [ ] Tool inventory - list of every tool used
+- [ ] Workspace setup notes and photos
 
-**Checklist:**
-- ☐ All fluids drained
-- ☐ All components labeled
-- ☐ Measurements recorded
-- ☐ Photos taken
-- ☐ Instructor sign-off on inspection
+#### **Week 2-3: Disassembly**
+- [ ] Component removal sequence (list in order you removed them)
+- [ ] **For EACH component:**
+  - [ ] What it is called
+  - [ ] What it does
+  - [ ] What condition it's in (good/worn/damaged)
+  - [ ] Where you'll store it (organized system)
+  - [ ] Any measurements taken
 
-**Status:** ☐ Disassembly Complete → [Move to Week 4](#week-4-5-reassembly--adjustment)
+#### **Week 4-5: Reassembly**
+- [ ] **For valve lash adjustment (CRITICAL - copy from guide):**
+  - [ ] Intake valve gap: _____ (should be 0.003-0.005")
+  - [ ] Exhaust valve gap: _____ (should be 0.004-0.006")
+  - [ ] Measurement attempt 1, 2, 3 (write all attempts)
+  - [ ] Instructor verification initials: _____
 
----
+- [ ] **For each major assembly:**
+  - [ ] Date completed
+  - [ ] Torque specifications used (copy from guide)
+  - [ ] Any issues encountered
+  - [ ] How you fixed them
 
-### **Week 4-5: Reassembly & Adjustment**
-
-```
-CRITICAL: Valve Lash Adjustment Week
-
-Day 1-2: HEAD REASSEMBLY
-├─ Read: docs/02-Teaching-Guide.md (Phase 5-6: Head Reassembly)
-├─ Watch: Mr. Hall Part 5-6 [docs/03-Video-Reference-Guide.md]
-├─ Procedure: Install head bolts in cross pattern
-└─ Record: All torque values in worksheet
-
-Day 3: ⭐ VALVE LASH ADJUSTMENT ⭐
-├─ CRITICAL STEP - Extra preparation required!
-├─ Watch: Mr. Hall Part 7 (at least 2x) [docs/03-Video-Reference-Guide.md]
-├─ Reference: docs/02-Teaching-Guide.md (Valve Lashing section)
-├─ Procedure: Follow exactlydetailed in visuals/04-Valve-Lash-Guide.md
-├─ Document: Record EVERY measurement in worksheet
-└─ Verification: Get INSTRUCTOR SIGN-OFF before proceeding
-
-Day 4-5: INTERNAL ASSEMBLY
-├─ Install camshaft with timing marks [visuals/05-Timing-Mark-Alignment.md]
-├─ Install crankcase cover
-├─ Record: All torque specifications
-└─ Verify: Engine rotates smoothly by hand
-```
-
-**CRITICAL VERIFICATION CHECKPOINT:**
-```
-Before proceeding to external assembly:
-☐ Valve lash documented AND verified by instructor
-☐ Timing marks remain aligned through full rotation
-☐ All torque values recorded correctly
-☐ Engine rotates smoothly by hand
-
-🔴 DO NOT PROCEED without these sign-offs
-```
-
-**Status:** ☐ Reassembly Complete → [Move to Week 6](#week-6-startup--reflection)
+#### **Week 6: Startup & Completion**
+- [ ] First startup date and time
+- [ ] Engine behavior (normal/smooth/rough/won't start)
+- [ ] Any adjustments made
+- [ ] Reflection: What was hardest? What would you do differently?
 
 ---
 
-### **Week 6: Startup & Reflection**
+## 📚 COMPLETE RESOURCES (No "Coming Soon" - All Deliverable)
 
-```
-Day 1-2: EXTERNAL ASSEMBLY
-├─ Install flywheel [docs/02-Teaching-Guide.md Phase 7]
-├─ Install fuel system components
-├─ Pre-Startup Verification [docs/01-Quick-Reference-Checklists.md]
-└─ Final instructor review
+### **For Videos**
+[docs/03-Video-Reference-Guide.md](docs/03-Video-Reference-Guide.md)
+- 9 complete videos with YouTube links
+- Timestamps for each major step
+- What to watch and why
 
-Day 3: 🚀 FIRST STARTUP
-├─ Follow: docs/01-Quick-Reference-Checklists.md (Cold Start Procedure)
-├─ Listen for: Normal sounds vs. abnormal
-├─ Document: Everything in worksheets/Student-Worksheet.md (Startup Record)
-└─ Record: Any issues encountered
+### **For Step-by-Step Work**
+[docs/02-Teaching-Guide.md](docs/02-Teaching-Guide.md)
+- All procedures from video transcripts
+- Complete specifications
+- Troubleshooting guide
 
-Day 4-5: REFLECTION & LEARNING
-├─ Complete: worksheets/Student-Worksheet.md (Learning Reflection)
-├─ Answer: Study questions [docs/04-Study-Questions.md]
-├─ Write: Final technical report
-└─ Present: Lessons learned to class
-```
-
-**Reflection Prompt:**
-"What was the most important thing you learned? How will you apply this to future projects?"
-
-**Status:** ☐ Project Complete → [Submit worksheet and reflection](#-assessment--grading)
-
----
-
-## 📊 Progress Tracking Dashboard
-
-| Phase | Status | Start Date | Instructor Sign-Off |
-|-------|--------|-----------|-------------------|
-| Week 1: Preparation | ☐ Not Started | ________ | ________ |
-| Weeks 2-3: Disassembly | ☐ Not Started | ________ | ________ |
-| Week 4-5: Reassembly | ☐ Not Started | ________ | ________ |
-| **Week 5 CRITICAL: Valve Lash** | ☐ Not Started | ________ | **REQUIRED** |
-| Week 6: Startup | ☐ Not Started | ________ | ________ |
-| Reflection & Assessment | ☐ Not Started | ________ | ________ |
-
----
-
-## 🔗 Material Organization
-
-### **Document Structure**
-
-```
-predator-212-curriculum/
-├── README.md (you are here)
-├── STUDENT_START_HERE.md (point students here first)
-├── docs/
-│   ├── 01-Quick-Reference-Checklists.md
-│   ├── 02-Teaching-Guide.md
-│   ├── 03-Video-Reference-Guide.md
-│   ├── 04-Study-Questions.md
-│   ├── 05-Torque-Specifications.md
-│   ├── Instructor-Guide.md
-│   ├── Assessment-Rubric.md
-│   └── README.md
-├── visuals/
-│   ├── 01-Engine-Layout.md
-│   ├── 02-Measurement-Guide.md
-│   ├── 03-Torque-Patterns.md
-│   ├── 04-Valve-Lash-Guide.md
-│   ├── 05-Timing-Mark-Alignment.md
-│   └── README.md
-├── worksheets/
-│   ├── Student-Worksheet.md
-│   ├── Instructor-Grading-Form.md
-│   └── README.md
-├── phases/
-│   ├── Phase-1-Safety.md
-│   ├── Phase-2-Disassembly-External.md
-│   ├── Phase-3-Disassembly-Internal.md
-│   ├── Phase-4-Inspection.md
-│   ├── Phase-5-Head-Reassembly.md
-│   ├── Phase-6-Valve-Lash.md
-│   ├── Phase-7-Assembly.md
-│   └── Phase-8-Startup.md
-└── videos/
-    └── Video-Links-and-Timestamps.md
-```
-
----
-
-## ⚡ Quick Start (Choose Your Path)
-
-### 👨‍🎓 **I'm a Student - Where Do I Start?**
-
-1. **FIRST THING:** Read [STUDENT_START_HERE.md](STUDENT_START_HERE.md) (5 minutes)
-2. **SECOND:** Take the pre-assessment in [worksheets/Student-Worksheet.md](worksheets/Student-Worksheet.md)
-3. **THIRD:** Review safety checklist [docs/01-Quick-Reference-Checklists.md](docs/01-Quick-Reference-Checklists.md)
-4. **THEN:** Follow the Week-by-week workflow above
-
-### 👨‍🏫 **I'm an Instructor - How Do I Use This?**
-
-1. **READ:** [docs/Instructor-Guide.md](docs/Instructor-Guide.md)
-2. **REVIEW:** [docs/Assessment-Rubric.md](docs/Assessment-Rubric.md)
-3. **PRINT:** [docs/01-Quick-Reference-Checklists.md](docs/01-Quick-Reference-Checklists.md)
-4. **FAMILIARIZE:** Watch Mr. Hall videos (links in [docs/03-Video-Reference-Guide.md](docs/03-Video-Reference-Guide.md))
-5. **SETUP:** Prepare worksheets and materials
-
-### 🏫 **I'm Setting This Up for My Entire Class**
-
-1. **Setup Phase:**
-   - [ ] Clone/fork this repository
-   - [ ] Review [docs/Instructor-Guide.md](docs/Instructor-Guide.md)
-   - [ ] Print [docs/01-Quick-Reference-Checklists.md](docs/01-Quick-Reference-Checklists.md)
-   - [ ] Test workflow with one student
-
-2. **Classroom Setup:**
-   - [ ] Verify all tools are available
-   - [ ] Set up GitHub Discussions for Q&A
-   - [ ] Create student access method (if needed)
-   - [ ] Assign worksheets
-
-3. **Launch:**
-   - [ ] Share this repo with students
-   - [ ] Have them read [STUDENT_START_HERE.md](STUDENT_START_HERE.md)
-   - [ ] Begin Week 1 workflow
-
----
-
-## ✋ Critical Safety Reminders
-
-**These procedures can be dangerous. Always:**
-
-```
-☑ Follow safety checklists EXACTLY - no shortcuts
-☑ Remove spark plug and drain fuel before starting
-☑ Use proper torque wrench - guessing is dangerous
-☑ Ask instructor if unsure about any step
-☑ Stop work immediately if you hear rod knock during startup
-☑ Never work alone on critical procedures
-☑ Verify valve lash BEFORE first startup
-☑ Get instructor sign-off at checkpoint phases
-```
-
-**Non-Negotiable Safety Stops:**
-- 🔴 STOP before disassembly: Fuel/oil drained? Spark plug removed? Workstation organized?
-- 🔴 STOP before head installation: Gasket surfaces clean? Cross-pattern understood?
-- 🔴 STOP before internal assembly: Timing marks verified? Torque wrench tested?
-- 🔴 STOP before startup: Valve lash verified by instructor?
-
----
-
-## 📖 Featured Document Sections
-
-### **Most Important - Valve Lash Procedure**
-[→ Read: docs/02-Teaching-Guide.md - Valve Lashing Section](docs/02-Teaching-Guide.md#phase-5-head-and-valves)
-[→ Watch: Mr. Hall Part 7](docs/03-Video-Reference-Guide.md#video-7-predator-212-valve-lashing)
-[→ Visual Guide: visuals/04-Valve-Lash-Guide.md](visuals/04-Valve-Lash-Guide.md)
-
-### **Most Referenced - Torque Specifications**
-[docs/05-Torque-Specifications.md](docs/05-Torque-Specifications.md)
-
-### **Most Used - Quick Checklists**
+### **For Quick Reference While Working**
 [docs/01-Quick-Reference-Checklists.md](docs/01-Quick-Reference-Checklists.md)
+- Printable checklists for your workstation
+- Safety checklist (print and post)
+- Component spacing and measurements
+
+### **For Your Notebook**
+[worksheets/Student-Worksheet.md](worksheets/Student-Worksheet.md)
+- **Print this** - use for physical documentation
+- Sections for each phase
+- Space to write measurements and notes
+
+### **For Critical Procedures**
+[visuals/04-Valve-Lash-Guide.md](visuals/04-Valve-Lash-Guide.md)
+- Watch Mr. Hall Part 7 MULTIPLE TIMES (referenced here)
+- This is the most critical procedure
+- Even small errors here mean engine won't run
+
+[visuals/05-Timing-Mark-Alignment.md](visuals/05-Timing-Mark-Alignment.md)
+- How to photograph timing marks BEFORE disassembly
+- How to verify alignment AFTER reassembly
+- Critical for engine startup
 
 ---
 
-## 🎓 Learning Outcomes
+## 🗓️ WEEK-BY-WEEK SCHEDULE
 
-By completing this project, students will:
+### **WEEK 1: PREPARATION**
 
-- [ ] Understand four-stroke engine operation
-- [ ] Perform precision mechanical disassembly
-- [ ] Make accurate measurements and specifications
-- [ ] Execute precision reassembly procedures
-- [ ] Adjust critical components to exact tolerances
-- [ ] Diagnose engine performance issues
-- [ ] Follow professional safety standards
-- [ ] Maintain thorough technical documentation
-- [ ] Understand real-world applications
-- [ ] Recognize career opportunities in technical fields
+**Monday (Short Class - ~45 min)**
+- [ ] Read STUDENT_START_HERE.md (15 min)
+- [ ] Sign safety agreement (5 min)
+- [ ] Watch Mr. Hall Part 1 (24:19) - Start watching (20 min - will finish Tuesday)
+- [ ] Begin notebook setup (5 min)
 
----
+**Tuesday Block (~90 min)**
+- [ ] Finish watching Mr. Hall Part 1 if needed (5 min)
+- [ ] Watch Mr. Hall Part 2 (23:24) (25 min)
+- [ ] Watch Mr. Hall Part 3 (7:07) - Piston installation (10 min)
+- [ ] Read docs/02-Teaching-Guide.md Phases 1-2 (15 min)
+- [ ] Print docs/01-Quick-Reference-Checklists.md (5 min)
+- [ ] Set up workspace with checklist (20 min)
+- [ ] List tools and take photos (10 min)
 
-## 🔍 How to Use This GitHub Repo
+**Thursday Block (~90 min)**
+- [ ] Watch Mr. Hall Part 4 (15:24) - Internal reassembly (15 min)
+- [ ] Watch Mr. Hall Part 5 (8:55) - Head detail (10 min)
+- [ ] Read valve lash section in docs/02-Teaching-Guide.md (10 min)
+- [ ] **Print worksheets/Student-Worksheet.md** for notebook (5 min)
+- [ ] Review and study visuals/04-Valve-Lash-Guide.md (20 min)
+- [ ] Review safety checklist thoroughly (10 min)
+- [ ] Get instructor clearance to start disassembly (10 min)
 
-### **Browsing**
-- This is a fully browsable GitHub repository
-- Click on any file to read it in-browser
-- Use the folder structure to navigate
-
-### **Download Everything**
-```bash
-git clone https://github.com/mr-mcateer/predator-212-curriculum.git
-```
-
-### **For Your Class**
-- **Option 1:** Fork this repo for your institution
-- **Option 2:** Create assignments linking to specific documents
-- **Option 3:** Use the document files directly in your LMS
-
----
-
-## 📞 Support & Questions
-
-### **For Students**
-- Check [docs/FAQ.md](docs/FAQ.md) for common questions
-- See [docs/Troubleshooting.md](docs/Troubleshooting.md) for common issues
-- Ask your instructor!
-
-### **For Instructors**
-- Review [docs/Instructor-Guide.md](docs/Instructor-Guide.md)
-- Check [docs/Implementation-Notes.md](docs/Implementation-Notes.md)
-- Contact through GitHub Discussions
+**Your Notebook Should Have:**
+- Safety agreement signed
+- Video notes (1-4)
+- Tool inventory
+- Workspace photos
+- Pre-assessment completed
 
 ---
 
-## 📋 Assessment & Grading
+### **WEEK 2-3: DISASSEMBLY**
 
-The complete grading rubric is available at:
-**[docs/Assessment-Rubric.md](docs/Assessment-Rubric.md)**
+**Monday (Short Class - ~45 min)**
+- [ ] Safety briefing and final checklist (10 min)
+- [ ] Begin Disassembly Phase 1 - external components (35 min)
+- [ ] Start documenting in notebook
 
-Grade Distribution:
-- Safety adherence: 25%
-- Procedural accuracy: 30%
-- Measurements & documentation: 25%
-- Engine startup success: 15%
-- Reflection & learning: 5%
+**Tuesday Block (~90 min)**
+- [ ] Continue Disassembly Phase 1 (30 min)
+- [ ] Begin Disassembly Phase 2 - internal access (30 min)
+- [ ] Organize and label components (20 min)
+- [ ] Update notebook with component list (10 min)
+
+**Thursday Block (~90 min)**
+- [ ] Continue Disassembly Phase 2 as needed (20 min)
+- [ ] Inspection and measurement phase (50 min)
+  - [ ] Measure ring gaps
+  - [ ] Check cylinder bore
+  - [ ] Inspect bearing condition
+- [ ] Record ALL measurements in worksheet (15 min)
+- [ ] Get instructor verification before stopping (5 min)
+
+**Your Notebook Should Have:**
+- Component removal sequence (order removed)
+- Description of each component
+- Condition notes (good/worn/damaged)
+- Storage system description
+- All measurements recorded
+- Instructor verification initials
 
 ---
 
-## 🙏 Credits & Attribution
+### **WEEK 4-5: REASSEMBLY & VALVE LASH**
 
-**Based on:** Mr. Daniel Hall's Predator 212cc Engine Video Series
-**Institution:** Panola College Technical Education Program
-**Curriculum Package:** Created February 2026
+**Monday (Short Class - ~45 min)**
+- [ ] Watch Mr. Hall Part 6 (11:03) - Head reassembly (15 min)
+- [ ] Begin head reassembly - prep work (30 min)
 
-### **Sources**
-- Mr. Hall's instructional videos (9-part series)
-- Predator 212cc Owner's Manual
-- OSHA Technical Training Standards
-- ASE Education Foundation Competency Standards
+**Tuesday Block (~90 min) - CRITICAL VALVE LASH WEEK**
+- [ ] Watch Mr. Hall Part 7 (8:55) **FIRST TIME** (10 min)
+- [ ] Watch Mr. Hall Part 7 (8:55) **SECOND TIME** (10 min)
+- [ ] Read visuals/04-Valve-Lash-Guide.md carefully (15 min)
+- [ ] Valve lash adjustment - follow video exactly (45 min)
+- [ ] Document every measurement attempt in worksheet (10 min)
+- [ ] **INSTRUCTOR MUST VERIFY** before proceeding (5 min)
+
+**Thursday Block (~90 min)**
+- [ ] Internal assembly - timing verification (15 min)
+  - [ ] Check timing marks (reference photos)
+  - [ ] Install camshaft with marks aligned
+- [ ] Install crankcase cover (20 min)
+- [ ] Verify engine rotates smoothly by hand (10 min)
+- [ ] Document all torque specs used (10 min)
+- [ ] Prepare for external assembly (35 min)
+
+**Your Notebook MUST Have:**
+- Intake valve lash measurements (all 3 attempts)
+- Exhaust valve lash measurements (all 3 attempts)
+- Torque specifications used
+- Instructor verification initials and date
+- Timing mark alignment check
+- Engine rotation verification
+
+---
+
+### **WEEK 6: FINAL ASSEMBLY & STARTUP**
+
+**Monday (Short Class - ~45 min)**
+- [ ] Watch Mr. Hall Part 8 (36:46) - Start watching (40 min)
+- [ ] Begin planning external assembly (5 min)
+
+**Tuesday Block (~90 min)**
+- [ ] Finish watching Mr. Hall Part 8 if needed (5 min)
+- [ ] External assembly - rocker arms, valve cover, carburetor (60 min)
+- [ ] Install fuel system components (20 min)
+- [ ] Document torque specs (5 min)
+
+**Thursday Block (~90 min) - STARTUP**
+- [ ] Watch Mr. Hall Part 9 (3:17) - Flywheel (5 min)
+- [ ] Install flywheel (very tight!) (10 min)
+- [ ] Complete pre-startup verification checklist (20 min)
+- [ ] Review cold start procedure (10 min)
+- [ ] First startup attempt (10 min)
+- [ ] Document startup behavior and results (15 min)
+- [ ] Make any needed adjustments (15 min)
+- [ ] Reflection questions (5 min)
+- [ ] Clean up workspace (5 min)
+
+**Your Notebook Must Have:**
+- External assembly checklist completed
+- Startup notes (what you observed)
+- Engine behavior notes
+- Any adjustments made and why
+- Reflection on what you learned
+- Photos of completed engine
+
+---
+
+## 🔗 RESOURCES (EVERYTHING LINKED - NOTHING "COMING SOON")
+
+**Student Entry:**
+- [STUDENT_START_HERE.md](STUDENT_START_HERE.md) - Read this first
+
+**Documentation:**
+- [worksheets/Student-Worksheet.md](worksheets/Student-Worksheet.md) - **Print this, write in it**
+
+**Videos with Links:**
+- [docs/03-Video-Reference-Guide.md](docs/03-Video-Reference-Guide.md) - All 9 videos with timestamps
+
+**Step-by-Step Procedures:**
+- [docs/02-Teaching-Guide.md](docs/02-Teaching-Guide.md) - Complete procedures from transcripts
+
+**Quick Reference (Print & Post):**
+- [docs/01-Quick-Reference-Checklists.md](docs/01-Quick-Reference-Checklists.md) - Laminate these for workstation
+
+**Critical Procedures:**
+- [visuals/04-Valve-Lash-Guide.md](visuals/04-Valve-Lash-Guide.md) - Most important - watch video multiple times
+- [visuals/05-Timing-Mark-Alignment.md](visuals/05-Timing-Mark-Alignment.md) - How to verify timing
+
+---
+
+## 📝 YOUR NOTEBOOK FORMAT
+
+**You must maintain a notebook (paper or printed)** containing:
+
+1. **Phase 1: Preparation**
+   - Safety agreement
+   - Video notes
+   - Pre-assessment
+   - Tool inventory
+
+2. **Phase 2-3: Disassembly**
+   - Component list with condition
+   - Measurements
+   - Photos/sketches
+   - Instructor sign-off
+
+3. **Phase 4-5: Reassembly**
+   - Valve lash measurements (CRITICAL)
+   - Torque specifications
+   - Timing verification
+   - Instructor sign-offs
+
+4. **Phase 6: Startup**
+   - Startup notes
+   - Reflection questions
+   - Completion signature
+
+---
+
+## ⚠️ CRITICAL SUCCESS FACTORS
+
+1. **Mondays are quick planning/video sessions** - come prepared on Tue/Thu to actually work
+2. **Tue/Thu blocks are your REAL work time** - use them productively
+3. **Watch the videos WHILE working**, not just before
+4. **Pause frequently** - don't try to watch and work simultaneously
+5. **Write everything down** - your notebook is your proof of learning
+6. **Get instructor sign-offs** at valve lash and reassembly checkpoints (your ticket to proceed)
+7. **Don't rush valve lash** - this is 90% of why engines fail on startup
+8. **Keep components organized** - confusion during reassembly causes problems
+9. **Come to Tuesday/Thursday blocks ready to work** - Monday is just prep
+
+---
+
+## 🎓 ASSESSMENT
+
+**You will be graded on:**
+
+- **30%** - Safety adherence and procedures followed
+- **25%** - Documentation completeness (your notebook)
+- **20%** - Measurements and specifications accuracy
+- **15%** - Engine startup success
+- **10%** - Reflection and learning demonstrated
+
+---
+
+## 📞 HELP & TROUBLESHOOTING
+
+**Something doesn't make sense?**
+- Check the video first (watch the relevant section again)
+- Ask your instructor
+- Read the teaching guide for that section
+
+**Engine won't start after rebuild?**
+- 80% of startup problems = incorrect valve lash
+- Check valve lash measurements first
+- Verify timing marks are still aligned
+- Confirm fuel is reaching carburetor
+
+**Measurement doesn't match the guide?**
+- Write down what you measured
+- Show your instructor
+- Don't guess - measure again if needed
+- Document your actual measurement
 
 ---
 
 ## 📄 License
 
-This educational material is provided under the MIT License for educational purposes.
-
-[Full License Text](LICENSE)
+MIT License - Free to use in educational settings
 
 ---
 
-## 🚀 Ready to Begin?
-
-### **Students:** [→ Read STUDENT_START_HERE.md](STUDENT_START_HERE.md)
-
-### **Instructors:** [→ Read docs/Instructor-Guide.md](docs/Instructor-Guide.md)
-
----
-
-**Last Updated:** February 4, 2026
-**Status:** ✅ Ready for Classroom Use
-**Questions?** Check the docs folder or ask your instructor!
+**Created:** February 2026
+**For:** Crescent Valley High School, Corvallis, OR
+**Schedule:** 3-week block format
+**Status:** ✅ All resources complete and linked
 
