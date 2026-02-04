@@ -2,25 +2,72 @@
 
 ## Video Series Overview
 
-The complete series consists of 9 videos covering full disassembly and reassembly of the Predator 212cc engine. Watch them in order for best understanding.
+The complete series consists of 10 videos:
+- **1 Foundation Video** - Engine theory and 4-stroke cycle (Week 1 prep)
+- **9 Procedural Videos** - Full disassembly and reassembly (Weeks 2-6)
 
-**Total Runtime:** ~138 minutes of comprehensive instruction
+**Total Runtime:** ~160 minutes of comprehensive instruction
 
 ---
 
 ## 🎬 QUICK LINKS - Watch All Videos
 
-1. [Part 1: Tear Down - Part 1](https://www.youtube.com/watch?v=ha6K8Bn9ELo) (24:19)
-2. [Part 2: Tear Down - Part 2](https://www.youtube.com/watch?v=NrXomEJPzqM) (23:24)
-3. [Part 3: Installing a Piston](https://www.youtube.com/watch?v=j2UvZuUYUEU) (7:07)
-4. [Part 4: Internal Reassembly](https://www.youtube.com/watch?v=4sKIi20SJNI) (15:24)
-5. [Part 5: Head & Valve Detail](https://www.youtube.com/watch?v=Td-8jDXZ6KA) (8:55)
-6. [Part 6: Head Reassembly](https://www.youtube.com/watch?v=RFEy7g0iDEg) (11:03)
-7. [Part 7: Valve Lashing ⭐](https://www.youtube.com/watch?v=ixVMH0u7C34) (8:55) - **WATCH MULTIPLE TIMES**
-8. [Part 8: Exterior Reassembly](https://www.youtube.com/watch?v=y6wgEWFvBWQ) (36:46)
-9. [Part 9: Flywheel Installation](https://www.youtube.com/watch?v=t-kKTW-2ZqE) (3:17)
+### FOUNDATION VIDEO (Watch First - Week 1)
+- **[Foundation: How 4-Stroke Engines Work](https://www.youtube.com/watch?v=ryUB0W72VJ0&list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-)**
+  - **Purpose:** Understand engine theory before disassembly
+  - **Best time:** Week 1, before watching teardown videos
+  - **What you'll learn:** How the 4-stroke cycle works, component purposes
+
+### PROCEDURAL VIDEOS (Weeks 2-6)
+
+1. [Foundation: How 4-Stroke Engines Work](https://www.youtube.com/watch?v=ryUB0W72VJ0&list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-) (~20 min) - **WATCH FIRST**
+2. [Part 1: Tear Down - Part 1](https://www.youtube.com/watch?v=ha6K8Bn9ELo) (24:19)
+3. [Part 2: Tear Down - Part 2](https://www.youtube.com/watch?v=NrXomEJPzqM) (23:24)
+4. [Part 3: Installing a Piston](https://www.youtube.com/watch?v=j2UvZuUYUEU) (7:07)
+5. [Part 4: Internal Reassembly](https://www.youtube.com/watch?v=4sKIi20SJNI) (15:24)
+6. [Part 5: Head & Valve Detail](https://www.youtube.com/watch?v=Td-8jDXZ6KA) (8:55)
+7. [Part 6: Head Reassembly](https://www.youtube.com/watch?v=RFEy7g0iDEg) (11:03)
+8. [Part 7: Valve Lashing ⭐](https://www.youtube.com/watch?v=ixVMH0u7C34) (8:55) - **WATCH MULTIPLE TIMES**
+9. [Part 8: Exterior Reassembly](https://www.youtube.com/watch?v=y6wgEWFvBWQ) (36:46)
+10. [Part 9: Flywheel Installation](https://www.youtube.com/watch?v=t-kKTW-2ZqE) (3:17)
 
 **📺 Full Playlist:** https://www.youtube.com/playlist?list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-
+
+---
+
+## FOUNDATION VIDEO: How 4-Stroke Engines Work
+
+🎬 **Watch Video:** https://www.youtube.com/watch?v=ryUB0W72VJ0&list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-
+
+**Duration:** ~20 minutes
+**When to Watch:** Week 1 - Before starting disassembly
+**Why This Matters:** Understanding engine theory makes the procedural work meaningful
+
+**Key Topics Covered:**
+- The four strokes: Intake, Compression, Power, Exhaust
+- How valves control the 4-stroke cycle
+- Why timing matters
+- Component purposes in each stroke cycle
+- How this relates to what you'll be working on
+
+### Watch For:
+- Visual demonstrations of the 4-stroke cycle
+- Valve timing relationships
+- How components work together as a system
+
+### Key Learning Points:
+- Each component you'll remove has a specific purpose in the cycle
+- Timing marks align components for proper operation
+- Valve lash affects when valves open and close
+- Understanding this makes troubleshooting easier
+
+### After Watching:
+- You'll understand WHY each procedural step matters
+- You'll know what each component does
+- You'll better appreciate the precision required
+- You'll be ready to watch the teardown videos with context
+
+**Next Step:** Watch VIDEO 1 (Tear Down Part 1)
 
 ---
 

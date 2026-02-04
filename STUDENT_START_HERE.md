@@ -187,13 +187,13 @@ This repository contains **everything** you need:
 
 ```
 Monday:   Read this file + take pre-assessment
-Tuesday:  Review safety checklist + study teaching guide
-Wednesday: Watch Mr. Hall Part 1 & 2 + study procedures
-Thursday:  Study for knowledge check + prepare workspace
+Tuesday:  Watch Foundation video (how 4-stroke engines work)
+Wednesday: Review safety checklist + watch Mr. Hall Part 1 & 2
+Thursday:  Study teaching guide + prepare workspace
 Friday:    Instructor review + get cleared to start disassembly
 ```
 
-**Your job:** Understand the big picture before you touch anything
+**Your job:** Understand engine theory + safety before you touch anything
 
 ---
 

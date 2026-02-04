@@ -5,7 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Schedule: 3 Week Block](https://img.shields.io/badge/Schedule-3%20Week%20Block-brightgreen)]()
-[![Videos: 9 Complete](https://img.shields.io/badge/Videos-9%20Complete-blue)]()
+[![Videos: 10 Complete](https://img.shields.io/badge/Videos-10%20Complete-blue)]()
 
 ---
 
@@ -75,7 +75,8 @@ Your notebook must contain (physically write or print and paste):
 
 ### **For Videos**
 [docs/03-Video-Reference-Guide.md](docs/03-Video-Reference-Guide.md)
-- 9 complete videos with YouTube links
+- 1 Foundation video (4-stroke engine theory - Week 1)
+- 9 procedural videos with YouTube links (Weeks 2-6)
 - Timestamps for each major step
 - What to watch and why
 
