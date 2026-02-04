@@ -4,9 +4,29 @@
 
 The complete series consists of 9 videos covering full disassembly and reassembly of the Predator 212cc engine. Watch them in order for best understanding.
 
+**Total Runtime:** ~138 minutes of comprehensive instruction
+
+---
+
+## 🎬 QUICK LINKS - Watch All Videos
+
+1. [Part 1: Tear Down - Part 1](https://www.youtube.com/watch?v=ha6K8Bn9ELo) (24:19)
+2. [Part 2: Tear Down - Part 2](https://www.youtube.com/watch?v=NrXomEJPzqM) (23:24)
+3. [Part 3: Installing a Piston](https://www.youtube.com/watch?v=j2UvZuUYUEU) (7:07)
+4. [Part 4: Internal Reassembly](https://www.youtube.com/watch?v=4sKIi20SJNI) (15:24)
+5. [Part 5: Head & Valve Detail](https://www.youtube.com/watch?v=Td-8jDXZ6KA) (8:55)
+6. [Part 6: Head Reassembly](https://www.youtube.com/watch?v=RFEy7g0iDEg) (11:03)
+7. [Part 7: Valve Lashing ⭐](https://www.youtube.com/watch?v=ixVMH0u7C34) (8:55) - **WATCH MULTIPLE TIMES**
+8. [Part 8: Exterior Reassembly](https://www.youtube.com/watch?v=y6wgEWFvBWQ) (36:46)
+9. [Part 9: Flywheel Installation](https://www.youtube.com/watch?v=t-kKTW-2ZqE) (3:17)
+
+**📺 Full Playlist:** https://www.youtube.com/playlist?list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-
+
 ---
 
 ## VIDEO 1: Predator 212 cc Engine Tear Down - Part 1
+
+🎬 **Watch Video:** https://www.youtube.com/watch?v=ha6K8Bn9ELo
 
 **Duration:** ~24 minutes
 **Key Topics Covered:**
@@ -35,6 +55,8 @@ The complete series consists of 9 videos covering full disassembly and reassembl
 
 ## VIDEO 2: Predator 212 Engine Tear Down - Part 2
 
+🎬 **Watch Video:** https://www.youtube.com/watch?v=NrXomEJPzqM
+
 **Duration:** ~23 minutes
 **Key Topics Covered:**
 - Flywheel removal process
@@ -61,6 +83,8 @@ The complete series consists of 9 videos covering full disassembly and reassembl
 ---
 
 ## VIDEO 3: Installing a Predator 212 Piston - Part 3
+
+🎬 **Watch Video:** https://www.youtube.com/watch?v=j2UvZuUYUEU
 
 **Duration:** ~7 minutes
 **Key Topics Covered:**
@@ -91,6 +115,8 @@ The complete series consists of 9 videos covering full disassembly and reassembl
 
 ## VIDEO 4: Reassembly of the Internals - Predator 212 CC Engine - Part 4
 
+🎬 **Watch Video:** https://www.youtube.com/watch?v=4sKIi20SJNI
+
 **Duration:** ~15 minutes
 **Key Topics Covered:**
 - Piston and rod installation into cylinder
@@ -120,6 +146,8 @@ The complete series consists of 9 videos covering full disassembly and reassembl
 
 ## VIDEO 5: Predator 212 Head and Valve Detail - Part 5
 
+🎬 **Watch Video:** https://www.youtube.com/watch?v=Td-8jDXZ6KA
+
 **Duration:** ~8 minutes
 **Key Topics Covered:**
 - Cylinder head structure
@@ -148,6 +176,8 @@ The complete series consists of 9 videos covering full disassembly and reassembl
 ---
 
 ## VIDEO 6: Predator 212 Head Reassembly - Part 6
+
+🎬 **Watch Video:** https://www.youtube.com/watch?v=RFEy7g0iDEg
 
 **Duration:** ~11 minutes
 **Key Topics Covered:**
@@ -181,6 +211,8 @@ The complete series consists of 9 videos covering full disassembly and reassembl
 ---
 
 ## VIDEO 7: Predator 212 Valve Lashing - Part 7
+
+🎬 **Watch Video:** https://www.youtube.com/watch?v=ixVMH0u7C34
 
 **Duration:** ~8 minutes
 **Key Topics Covered:**
@@ -237,6 +269,8 @@ Mr. Hall emphasizes checking BOTH valves at TDC, then rotating the engine 180° 
 
 ## VIDEO 8: Predator 212 Exterior Reassembly - Part 8
 
+🎬 **Watch Video:** https://www.youtube.com/watch?v=y6wgEWFvBWQ
+
 **Duration:** ~36 minutes
 **Key Topics Covered:**
 - Valve cover reinstallation
@@ -269,6 +303,8 @@ Mr. Hall emphasizes checking BOTH valves at TDC, then rotating the engine 180° 
 ---
 
 ## VIDEO 9: Predator Flywheel Installation - Part 9
+
+🎬 **Watch Video:** https://www.youtube.com/watch?v=t-kKTW-2ZqE
 
 **Duration:** ~3 minutes
 **Key Topics Covered:**
