@@ -153,22 +153,100 @@ This repository contains **everything** you need:
   - Common mistakes to avoid
   - **Reference this while working**
 
-### **4. VIDEO GUIDES**
-- **docs/03-Video-Reference-Guide.md**
-  - Links to Mr. Hall's videos
-  - What to watch for in each video
-  - Timestamps for specific procedures
-  - **Watch videos BEFORE trying each phase**
+### **4. VIDEO LINKS (All Timestamps Embedded Below)**
 
-### **5. VISUAL GUIDES & VIDEOS**
-- **Mr. Hall's Videos** (Primary visual instruction)
-  - Watch while you work on each phase
-  - Timestamps in docs/03-Video-Reference-Guide.md
-  - See actual hands-on demonstrations
+**Watch these in order. All links are direct YouTube - click and go.**
 
-- **visuals/04-Valve-Lash-Guide.md** (Critical procedure guide)
-- **visuals/05-Timing-Mark-Alignment.md** (Timing reference)
-  - **Use these alongside the videos**
+**FOUNDATION VIDEO (Watch First - Week 1 Tuesday):**
+- **How 4-Stroke Engines Work** (20 min)
+- Link: https://www.youtube.com/watch?v=ryUB0W72VJ0
+- What to watch for: 4-stroke cycle, valve timing, component purposes
+- **Why important:** Understand engine theory BEFORE you take it apart
+
+**DISASSEMBLY VIDEOS (Weeks 1-2):**
+
+**PART 1: Tear Down - Part 1** (Week 1 Wednesday - 24 min)
+- Link: https://www.youtube.com/watch?v=ha6K8Bn9ELo
+- Watch for (timestamps):
+  - 0:00-2:00 - Fuel system draining (CRITICAL SAFETY)
+  - 2:00-5:00 - Oil drainage (both drain plugs)
+  - 5:00-8:00 - Spark plug removal (careful with ceramic)
+  - 8:00-12:00 - Carburetor removal
+  - 12:00-24:00 - Valve cover and initial disassembly
+
+**PART 2: Tear Down - Part 2** (Week 1 Thursday - 23 min)
+- Link: https://www.youtube.com/watch?v=NrXomEJPzqM
+- Watch for:
+  - 0:00-5:00 - Flywheel removal (use holder!)
+  - 5:00-12:00 - Stator removal
+  - 12:00-18:00 - Crankcase cover removal (careful prying)
+  - 18:00-23:00 - Internal component exposure
+
+**REASSEMBLY VIDEOS (Weeks 2-3):**
+
+**PART 3: Installing Piston** (Week 2 Wednesday - 7 min)
+- Link: https://www.youtube.com/watch?v=j2UvZuUYUEU
+- Watch for:
+  - 0:00-2:00 - Ring installation sequence
+  - 2:00-4:00 - Ring gap verification (use feeler gauge)
+  - 4:00-7:00 - Piston orientation and installation
+
+**PART 4: Internal Reassembly** (Week 3 Tuesday - 15 min)
+- Link: https://www.youtube.com/watch?v=4sKIi20SJNI
+- Watch for:
+  - 0:00-5:00 - Piston/rod installation
+  - 5:00-10:00 - Connecting rod bolt tightening (TORQUE: 15-18 ft-lbs)
+  - 10:00-13:00 - **Timing mark alignment** (CRITICAL!)
+  - 13:00-15:00 - Crankcase cover reassembly
+
+**PART 5: Head & Valve Detail** (Week 2 Thursday - 8 min)
+- Link: https://www.youtube.com/watch?v=Td-8jDXZ6KA
+- Watch for:
+  - 0:00-3:00 - Valve identification (intake vs. exhaust)
+  - 3:00-6:00 - Valve condition assessment
+  - 6:00-8:00 - Spring mechanism
+
+**PART 6: Head Reassembly** (Week 3 Tuesday - 11 min)
+- Link: https://www.youtube.com/watch?v=RFEy7g0iDEg
+- Watch for:
+  - 0:00-3:00 - Valve installation
+  - 3:00-7:00 - Spring compressor usage
+  - 7:00-11:00 - Head bolt cross-pattern sequence (TORQUE: 17-22 ft-lbs in 3 passes)
+
+**PART 7: Valve Lashing ⭐ MOST IMPORTANT** (Week 3 Wednesday - 8 min) **WATCH 2-3 TIMES!**
+- Link: https://www.youtube.com/watch?v=ixVMH0u7C34
+- This is THE most critical procedure. If you get this wrong, engine won't start.
+- Watch for:
+  - 0:00-2:00 - Top Dead Center (TDC) positioning
+  - 2:00-4:00 - Feeler gauge technique
+  - 4:00-6:00 - Rocker arm adjustment procedure
+  - 6:00-8:00 - Recording measurements
+- **SPECS YOU MUST MEMORIZE:**
+  - Intake valve gap: 0.003" - 0.005"
+  - Exhaust valve gap: 0.004" - 0.006"
+- **CRITICAL:** Get instructor to verify before proceeding
+
+**PART 8: Exterior Reassembly** (Week 3 Friday - 36 min)
+- Link: https://www.youtube.com/watch?v=y6wgEWFvBWQ
+- Watch for:
+  - 0:00-8:00 - Rocker arm installation (after valve lash!)
+  - 8:00-15:00 - Valve cover installation (TORQUE: 6-8 ft-lbs)
+  - 15:00-25:00 - Carburetor reassembly
+  - 25:00-36:00 - Fuel system setup and final checks
+
+**PART 9: Flywheel Installation** (Week 3 Friday - 3 min)
+- Link: https://www.youtube.com/watch?v=t-kKTW-2ZqE
+- Watch for:
+  - Flywheel bolt: **VERY TIGHT - 25-30 ft-lbs** (may need helper!)
+
+### **📺 Complete Playlist (Bookmark This):**
+https://www.youtube.com/playlist?list=PLHmbvimXDzMkUtBNh-t3YaLlA1DOnHqJ-
+
+### **5. VISUAL GUIDES & REFERENCE MATERIALS**
+- **visuals/04-Valve-Lash-Guide.md** (Critical procedure guide - print and laminate!)
+- **visuals/05-Timing-Mark-Alignment.md** (Timing verification)
+- **docs/01-Quick-Reference-Checklists.md** (Print and post at workstation)
+- **docs/05-Torque-Specifications.md** (Print - all torque values in one place)
 
 ### **6. YOUR DOCUMENTATION**
 - **worksheets/Student-Worksheet.md**
@@ -187,9 +265,12 @@ This repository contains **everything** you need:
 
 ```
 Monday:   Read this file + take pre-assessment
-Tuesday:  Watch Foundation video (how 4-stroke engines work)
-Wednesday: Review safety checklist + watch Mr. Hall Part 1 & 2
-Thursday:  Study teaching guide + prepare workspace
+Tuesday:  Watch Foundation video (https://www.youtube.com/watch?v=ryUB0W72VJ0)
+          → How 4-stroke engines work - 20 min
+Wednesday: Review safety checklist + watch Part 1 (https://www.youtube.com/watch?v=ha6K8Bn9ELo)
+          → Tear Down Part 1 - 24 min
+Thursday:  Watch Part 2 (https://www.youtube.com/watch?v=NrXomEJPzqM)
+          → Tear Down Part 2 - 23 min + prepare workspace
 Friday:    Instructor review + get cleared to start disassembly
 ```
 
@@ -197,24 +278,49 @@ Friday:    Instructor review + get cleared to start disassembly
 
 ---
 
-### **Weeks 2-3: Disassembly**
+### **Weeks 2-3: Disassembly & Reassembly**
 
+#### **Week 2: DISASSEMBLY**
 ```
-Day 1:  Remove external components (carburetor, air cleaner, valve cover)
-Day 2:  Remove flywheel and crankcase cover
-Day 3:  Remove internal components (piston, connecting rod, camshaft)
-Day 4:  Remove head and valves
-Day 5:  Inspection day - measure everything
-        (Instructor signs off on inspection)
+Monday:  Remove external components (carburetor, air cleaner, valve cover)
+         Watch: Part 1 (https://www.youtube.com/watch?v=ha6K8Bn9ELo)
+Tuesday: Remove flywheel and crankcase cover
+         Watch: Part 2 (https://www.youtube.com/watch?v=NrXomEJPzqM)
+Wednesday: Remove internal components + inspect
+         Watch: Part 3 (https://www.youtube.com/watch?v=j2UvZuUYUEU)
+         Watch: Part 5 (https://www.youtube.com/watch?v=Td-8jDXZ6KA)
+Thursday: Remove head and valves (big day!)
+         Watch: Part 5 & 6 (https://www.youtube.com/watch?v=RFEy7g0iDEg)
+Friday:  Inspection day - measure everything & record all measurements
+         (Instructor signs off on inspection)
+```
 
-Your job: Be methodical, take photos, label everything
+#### **Week 3: REASSEMBLY**
 ```
+Monday:  Prepare components for reassembly
+Tuesday: Head reassembly + internal assembly
+         Watch: Part 6 (https://www.youtube.com/watch?v=RFEy7g0iDEg)
+         Watch: Part 4 (https://www.youtube.com/watch?v=4sKIi20SJNI)
+Wednesday: ⭐ VALVE LASH ADJUSTMENT (MOST CRITICAL!)
+         Watch Part 7 2-3 TIMES (https://www.youtube.com/watch?v=ixVMH0u7C34)
+         Specs: Intake 0.003-0.005", Exhaust 0.004-0.006"
+         MUST GET INSTRUCTOR VERIFICATION BEFORE PROCEEDING
+Thursday: External assembly + carburetor setup
+         Watch: Part 8 (https://www.youtube.com/watch?v=y6wgEWFvBWQ)
+Friday:  Flywheel installation + final checks
+         Watch: Part 9 (https://www.youtube.com/watch?v=t-kKTW-2ZqE)
+         Pre-startup verification COMPLETE
+```
+
+**Your job:** Be methodical, take photos, label everything, DOCUMENT EVERYTHING
 
 **Critical Documentation:**
 - Photograph every component position
 - Record where each bolt came from
 - Measure ring gaps and bore
 - Note component condition
+- **Record ALL valve lash attempts** (not just successful ones)
+- Document actual torque values used (not just specs)
 
 ---
 
@@ -247,13 +353,23 @@ This is THE most critical procedure. Poor valve lash = engine won't run right.
 ### **Week 6: Startup & Reflection**
 
 ```
-Day 1:  Final assembly checks + pre-startup verification
-Day 2:  First startup! 🚀 (Nervousness is normal)
-Day 3:  Troubleshooting if needed
-Day 4-5: Complete worksheet + answer reflection questions
+Monday:  Final assembly checks + pre-startup verification
+         Review Part 8 & 9: https://www.youtube.com/watch?v=y6wgEWFvBWQ
+         and https://www.youtube.com/watch?v=t-kKTW-2ZqE
+Tuesday: First startup! 🚀 (Nervousness is normal)
+         Document: # of pulls, engine behavior, sounds, any issues
+Wednesday: Troubleshooting if needed
+         Reference: docs/FAQ.md for diagnosis
+         If won't start: Check spark → fuel → VALVE LASH (most common)
+Thursday-Friday: Complete reflection + finalize documentation
 ```
 
-**Your job:** Document the startup process, learn from it
+**Your job:** Document the startup process, learn from what happened
+
+**If engine won't start:**
+- Check these in order: Spark → Fuel → Valve Lash (80% of problems)
+- See: docs/FAQ.md for complete troubleshooting
+- Part 7 video (valve lash): https://www.youtube.com/watch?v=ixVMH0u7C34
 
 ---
 
